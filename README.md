@@ -17,7 +17,7 @@ I value sharing knowledge and staying up-to-date with technology. I chose data a
 
 ⚡ Хочу освоить новую професcию и найти работу.
 
-📫 Как связаться со мной: Telegram Badge Gmail Badge
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-levltv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:evgenij.litvinov@icloud.com)
 
 
 ### Skills 
