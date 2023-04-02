@@ -40,10 +40,10 @@ align="left">
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| stepik.org / Interactive SQL Simulator                          | 03/2023 - xx/2023 |
-| https://sky.pro/ / Data Analyst                                 | 10/2022 - xx/2023 |
-| stepik.org / BI developer Tableau                               | 02/2023 - 04/2023 |
-| scholar.google.ru / Advanced course in Google Analytics         | 02/2022 - 04/2022 |
-| skillbox.ru / Skillbox Excel + Google Tables                    | 01/2021 - 05/2021 |
-| dnk.bz/business-ac / Academy of System Business DNA             | 05/2020 - 12/2020 |
+| stepik.org  | Interactive SQL Simulator                         | 03/2023 - xx/2023 |
+| https://sky.pro | Data Analyst                                 | 10/2022 - xx/2023 |
+| stepik.org | BI developer Tableau                              | 02/2023 - 04/2023 |
+| scholar.google.ru | Advanced course in Google Analytics        | 02/2022 - 04/2022 |
+| skillbox.ru | Skillbox Excel + Google Tables                   | 01/2021 - 05/2021 |
+| dnk.bz/business-ac | Academy of System Business DNA            | 05/2020 - 12/2020 |
 
