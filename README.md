@@ -1,4 +1,11 @@
-Привет, меня зовут Алексей!
+## Hey 👋, I'm Yevhen Lytvynov!  
+
+### Glad to see you here!  
+I've been a Data Analyst for over a year at a modern Ed-Tech company. 
+Built media plans for the blogger department and dashboards for the marketing department and analyzed metrics for product promotion. My analysis of marketing metrics lifted quarterly conversion to sales by 5%.
+
+I value sharing knowledge and staying up-to-date with technology. I chose data analytics because I enjoy studying data and seeing the results of my work through SQL code. I use online resources to improve my Hard Skills.
+
 
 👨‍💻 Обо мне:
 
@@ -11,7 +18,6 @@
 ⚡ Хочу освоить новую професcию и найти работу.
 
 📫 Как связаться со мной: Telegram Badge Gmail Badge
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)](https://github.com/harish-sethuraman/readme-components)
 
 
 ### Skills 
