@@ -21,3 +21,4 @@ I value sharing knowledge and staying up-to-date with technology. I chose data a
 <a href="https://www.microsoft.com/microsoft-365/excel/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="75" /></a>
 <a href="https://docs.google.com/spreadsheets/" target="_blank"><img style="margin: 10px" src="https://yoolk.ninja/wp-content/uploads/2021/08/Apps-Google-Sheets-1024x1024.png" height="85" /></a>
 </div>  
+
