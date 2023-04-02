@@ -11,3 +11,4 @@
 ⚡ Хочу освоить новую професcию и найти работу.
 
 📫 Как связаться со мной: Telegram Badge Gmail Badge
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)](https://github.com/harish-sethuraman/readme-components)
