@@ -30,7 +30,7 @@ align="left">
 
 ## 🤝 Socials  
 <p align="left">
-<a href="" target="https://t.me/levltv"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+<a href=""https://t.me/levltv "target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a> 
 <a href="https://www.github.com/Yevhen-Lytvynov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> 
 <a href="https://www.linkedin.com/in/evgeniy-litvinov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
 <a href="https://www.facebook.com/profile.php?id=100042209442706" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /></a> 
