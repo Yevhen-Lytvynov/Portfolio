@@ -9,7 +9,8 @@ Built media plans for the blogger department and dashboards for the marketing de
 I value sharing knowledge and staying up-to-date with technology. I chose data analytics because I enjoy studying data and seeing the results of my work through SQL code. I use online resources to improve my Hard Skills.
 
 * 🌍  I'm based in İstanbul
-- :mailbox: Contact Me: [![Telegram Badge](https://img.shields.io/badge/-levltv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/levltv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:evgenij.litvinov@icloud.com)
+* :mailbox: Contact Me: [![Telegram Badge](https://img.shields.io/badge/-levltv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/levltv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:evgenij.litvinov@icloud.com)
+* :zap: Fun fact: In the past I was a circus performer.   
 
 
 ## 🛠 Languages and Tools  
