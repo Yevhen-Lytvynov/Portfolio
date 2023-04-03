@@ -63,7 +63,7 @@ align="left">
 #### How did I decide:
 <p> I wrote a complex SQL query (with subqueries, window functions, and JOIN) based on specified criteria, merging multiple tables to obtain the required data. After exporting the data to Excel, I performed calculations and created a PowerPoint presentation analyzing the metrics and providing recommendations for improvement.<p>
 
-> <a href="https://docs.google.com/presentation/d/13TsNR_U3LhLONwj_xVQWxdnMIFHXiKvl/edit?usp=share_link&ouid=107936111253146502742&rtpof=true&sd=true">Ссылка на проект</a>
+> <a href="https://docs.google.com/presentation/d/13TsNR_U3LhLONwj_xVQWxdnMIFHXiKvl/edit?usp=share_link&ouid=107936111253146502742&rtpof=true&sd=true">🔗Project link</a>
 
 #### Conclusions (summary): To reach a 25% margin, the following scenario is proposed:
 <ol>
@@ -88,7 +88,7 @@ align="left">
 #### How did I decide: 
 <p> I imported data into Tableau using SQL. Then, based on the data, I created several tables in Tableau to address the specified requirements. Finally, I merged them into one interactive dashboard.<p>
 
-> <a href="https://public.tableau.com/views/Onlinestorevisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Ссылка на проект</a>
+> <a href="https://public.tableau.com/views/Onlinestorevisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">🔗Project link</a>
 
 #### Conclusions (summary): This visualization displays complete sales and profit data for all regions, states, and cities.
 <ol>
