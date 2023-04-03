@@ -92,12 +92,12 @@ align="left">
 
 #### Conclusions (summary): This visualization displays complete sales and profit data for all regions, states, and cities.
 <ol>
-<p>◉The data can be viewed in a segment dimension, product category, by product itself, and broken down by any date range.<p>
-<p>◉The product analyst can see the following information in the dashboard:<p>
-<p>➤➤What are sales by category and subcategory?<p>
-<p>➤➤The most profitable and unprofitable categories, products<p>
-<p>➤➤It should be possible to see statistics for a specific product<p>
-<p>◉The sales professional wants a dashboard to answer the following questions:<p>
-<p>➤➤Which customers are the most profitable? Which customers are the most unprofitable?<p>
-<p>➤➤Is there a correlation between the size of the discount provided and the profitability of the customer?<p>
+<p>◉ The data can be viewed in a segment dimension, product category, by product itself, and broken down by any date range.<p>
+<p>◉ The product analyst can see the following information in the dashboard:<p>
+<p>➤➤ What are sales by category and subcategory?<p>
+<p>➤➤ The most profitable and unprofitable categories, products<p>
+<p>➤➤ It should be possible to see statistics for a specific product<p>
+<p>◉ The sales professional wants a dashboard to answer the following questions:<p>
+<p>➤➤ Which customers are the most profitable? Which customers are the most unprofitable?<p>
+<p>➤➤ Is there a correlation between the size of the discount provided and the profitability of the customer?<p>
 </ol>
