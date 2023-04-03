@@ -47,57 +47,56 @@ align="left">
 | skillbox.ru        | Skillbox Excel + Google Tables             | 01/2021 - 05/2021 |
 | dnk.bz/business-ac | Academy of System Business DNA             | 05/2020 - 12/2020 |
 
-## Проекты
+## ✍️ Project
 
-#### Проект 1: Калькулятор юнит-экономики онлайн-кинотеатра
-<p>Что нужно было сделать:<p>
+### Project 1️⃣: Online cinema unit economy calculator
+#### What was to be done:
 <ol>
-  <li>Определить, что является юнитом в нашей экономике</li>
-  <li>Посчитать юнит-экономику продукта и предложить сценарий по настройке параметров для выхода на 25%-ю маржинальность</li>
-  <li>Выбрать оптимальный вариант расчета Retention</li>
-  <li>Собрать визуализации основных бизнес-показателей</li>
-  <li>Поисследовать данные о пользователях и их поведении</li>
+  <li>Identify what is a unit in our economy</li>
+  <li>Calculate the unit economy of the product and propose a scenario for setting parameters to reach a 25% margin</li>
+  <li>Choose the best option for Retention calculation</li>
+  <li>Get visualizations of key business indicators</li>
+  <li>Research data about users and their behavior</li>
 </ol>
 
-<p>Как решал: Написал сложны SQL (подзапросы, оконные функции, JOIN) запрос по заданным критериям обединив несколько таблиц. Получив нужные данные выгрузил их в Execl, провел расчеты, сделал презинтацию по анализу в PowerPoint с указанием рекомендации по улучшению метрик.<p>
+#### How did I decide:
+<p> I wrote a complex SQL query (with subqueries, window functions, and JOIN) based on specified criteria, merging multiple tables to obtain the required data. After exporting the data to Excel, I performed calculations and created a PowerPoint presentation analyzing the metrics and providing recommendations for improvement.<p>
 
 > <a href="https://docs.google.com/presentation/d/13TsNR_U3LhLONwj_xVQWxdnMIFHXiKvl/edit?usp=share_link&ouid=107936111253146502742&rtpof=true&sd=true">Ссылка на проект</a>
 
-#### Выводы (итоги): Для выхода на 25% маржинальность предлагается следующий сценарий:
+#### Conclusions (summary): To reach a 25% margin, the following scenario is proposed:
 <ol>
-<p>* Увеличили Retencion на 8%<p>
-<p>* Увеличили оплату на 78,6%<p>
-<p>* Уменьшили объем скидок на 50%<p>
-<p>* Уменьшили затраты на маркетинг, тем самым уменьшили CAC на 25%<p>
-<p>* Уменьшили ФОТ на 35%<p>
+<p>◉ Increased Retencion by 8%<p>
+<p>◉ Increased payment by 78.6%<p>
+<p>◉ Lowered the volume of discounts by 50%<p>
+<p>◉ Lowered marketing costs, thereby lowering CAC by 25%.<p>
+<p>◉ Reduced the payroll by 35%<p>
 </ol>
 
 <br> 
 
-#### Проект 1: Online store visualization
-<p>Что нужно было сделать:<p>
+### Project 2️⃣: Online store visualization
+#### What was to be done:
 <ol>
-  <li>Отобразить полные данные по продажам и прибыли</li>
-  <li>Для аналитика по продуктам</li>
-  <li>Для специалист отдела продаж</li>
-  <li>Данные нужно просматривать в измерении сегмента, категории товара, по самому товару, в разрезе по любому диапазону дат</li>
+  <li>Display complete sales and profit data</li>
+  <li>For the product analyst</li>
+  <li>For the sales specialist</li>
+  <li>The data should be viewed in the segment measurement, product category, by product , in section by any date range</li>
 </ol>
 
-<p>Как решал: Импортировал данные в Tableau с помошью SQL. После на основе данных сделал несколько таблиц в Tableau для рещения указанных пунктов. И обединил их в один интерективный дашборд<p>
+#### How did I decide: 
+<p> I imported data into Tableau using SQL. Then, based on the data, I created several tables in Tableau to address the specified requirements. Finally, I merged them into one interactive dashboard.<p>
 
 > <a href="https://public.tableau.com/views/Onlinestorevisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Ссылка на проект</a>
 
-#### Выводы (итоги): This visualization displays complete sales and profit data for all regions, states, and cities.
+#### Conclusions (summary): This visualization displays complete sales and profit data for all regions, states, and cities.
 <ol>
-<p>The data can be viewed in a segment dimension, product category, by product itself, and broken down by any date range.<p>
- 
-<p> The product analyst can see the following information in the dashboard:<p>
-<p>* What are sales by category and subcategory?<p>
-<p>* The most profitable and unprofitable categories, products<p>
-<p>* It should be possible to see statistics for a specific product<p>
-<p>* Увеличили Retencion на 8%<p>
-<p>* Увеличили оплату на 78,6%<p>
-<p>* Уменьшили объем скидок на 50%<p>
-<p>* Уменьшили затраты на маркетинг, тем самым уменьшили CAC на 25%<p>
-<p>* Уменьшили ФОТ на 35%<p>
+<p>◉The data can be viewed in a segment dimension, product category, by product itself, and broken down by any date range.<p>
+<p>◉The product analyst can see the following information in the dashboard:<p>
+<p>➤➤What are sales by category and subcategory?<p>
+<p>➤➤The most profitable and unprofitable categories, products<p>
+<p>➤➤It should be possible to see statistics for a specific product<p>
+<p>◉The sales professional wants a dashboard to answer the following questions:<p>
+<p>➤➤Which customers are the most profitable? Which customers are the most unprofitable?<p>
+<p>➤➤Is there a correlation between the size of the discount provided and the profitability of the customer?<p>
 </ol>
