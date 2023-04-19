@@ -101,3 +101,19 @@ align="left">
 <p>➤➤ Which customers are the most profitable? Which customers are the most unprofitable?<p>
 <p>➤➤ Is there a correlation between the size of the discount provided and the profitability of the customer?<p>
 </ol>
+
+### Project 3️⃣: MySQL queries and database creation
+#### What was to be done:
+<ol>
+  <li>Created a database and tables in it</li>
+  <li>Created queries by condition</li>
+</ol>
+
+#### How did I decide: 
+<p> I created a database on the service "dbfiddle", filled tables with data, wrote SQL queries..<p>
+
+> <a href="https://docs.google.com/spreadsheets/d/1TJ24RItbNliCOBd0qEoSFnLP-5kVL3oO7Z0V34802IY/edit#gid=1087233371">🔗Project link</a>
+
+#### Conclusions (summary): This paper shows my skills in creating tables in a database and working with MySQL.
+<ol>
+
