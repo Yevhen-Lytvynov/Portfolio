@@ -110,7 +110,7 @@ align="left">
 </ol>
 
 #### How did I decide: 
-<p> I created a database on the service "dbfiddle", filled tables with data, wrote SQL queries..<p>
+<p> I created a database on the service "dbfiddle", filled tables with data, wrote SQL queries.<p>
 
 > <a href="https://docs.google.com/spreadsheets/d/1TJ24RItbNliCOBd0qEoSFnLP-5kVL3oO7Z0V34802IY/edit#gid=1087233371">🔗Project link</a>
 
